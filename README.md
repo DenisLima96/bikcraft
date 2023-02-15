@@ -6,19 +6,24 @@
 
 ![Sem título](https://user-images.githubusercontent.com/98764037/219095190-c5408cc0-8ad3-4c05-bce1-5e5b90f75c11.png)
 
-## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
-- JavaScript
-- Git e Github
+## :computer: Tecnologias
+* [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
+* [CSS](https://www.w3schools.com/css/)
+
+* [JavaScript](https://www.javascript.com/)
+
+&#xa0
+
+## :hammer_and_wrench: Serviços
+* <a href="https://github.com/">GitHub</a>
+
+&#xa0;
 ## 💻 Projeto
 
 Projeto de 7 paginas, onde você consegue ver lista de biciclestas disponiveis e a ficha técnica de cada uma delas e tambem pode escolher qual seguro você quer para sua bicicleta.
-
-
 
 ## :scroll: Rodando o projeto
 É necessário um navegador
@@ -39,7 +44,7 @@ Esse projeto está sob a licença MIT.
 
 
 
-Feito por Denis Lima
+Desenvolvido por Dênis Lima
 
 
 
