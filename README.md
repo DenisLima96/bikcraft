@@ -19,6 +19,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Projeto de 7 paginas, onde você consegue ver lista de biciclestas disponiveis e a ficha técnica de cada uma delas e tambem pode escolher qual seguro você quer para sua bicicleta.
 
 
+
+## :scroll: Rodando o projeto
+É necessário um navegador
+
+```bash
+# Clone este repositório
+### Deploy:https://denislima96.github.io/bikcraft/
+```
+
+
 # :memo: Licença
 
 Esse projeto está sob a licença MIT.
